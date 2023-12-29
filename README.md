@@ -1,7 +1,3 @@
-# Tauri + Solid + Typescript
-
-This template should help get you started developing with Tauri, Solid and Typescript in Vite.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+![github readme qlick](https://github.com/zenvio-net/qlick/assets/98414850/d87dccec-dce7-4adc-a62a-d954b519d68b)
+# qlick.dev
+Meet a new version of code editing. **Edit your code like notes**. Fast, modern and privacy friendly, perfect for you and your business. Ai, Git, and more integrations, making this the best code editor.
