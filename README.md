@@ -6,7 +6,7 @@
 
 ## UI Librarys and Icons
 - [SkeletonUI](https://skeleton.dev/)
-- [Unplugin Icons](https://github.com/unplugin/unplugin-icons)
+- [Iconify](https://iconify.design/)
 
 
 ### Features
