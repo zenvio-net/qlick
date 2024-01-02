@@ -1,38 +1,39 @@
-# create-svelte
+## Qlick - A simple, blazingly fast and lightweight Node.js Code Editor
+## Tech Stack
+- [Tauri](https://tauri.app/)
+- [Rust](https://rust-lang.org/)
+- [SvelteKit](https://kit.svelte.dev/) with [TypeScript](https://typescriptlang.org/)
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+## UI Librarys and Icons
+- [SkeletonUI](https://skeleton.dev/)
+- [Unplugin Icons](https://github.com/unplugin/unplugin-icons)
 
-## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
+### Features
+- [ ] Syntax Highlighting
+- [ ] Code Completion
+- [ ] Code Snippets
+- [ ] Themes
+- [ ] Extensions
+- [ ] Project Manager
+- [ ] Dependency Manager
+- [ ] Git Integration
+- [ ] Terminal
+- [ ] Debugger
+- [ ] Node.js Version Manager
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+### Explain me
+<details>
+<summary>Project Manager</summary>
+The Project Manager is a feature that allows you to create, delete and update projects. For Example you can change the location where the Project is located currently. You can also manage your Git Repositories with the Project Manager.
+</details>
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+<details>
+<summary>Dependency Manager</summary>
+The Dependency Manager is a feature that allows you to install, update and remove dependencies. For Example you can install a dependency from Node.js.
+</details>
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+<details>
+<summary>Node.js Version Manager</summary>
+The Node.js Version Manager is an implementation of [NVM](https://github.com/nvm-sh/nvm)
+</details>
