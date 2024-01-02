@@ -1,4 +1,4 @@
-## Qlick - A simple, blazingly fast and lightweight Node.js Code Editor
+## Qlick - A simple and blazingly fast Node.js Code Editor
 ## Tech Stack
 - [Tauri](https://tauri.app/)
 - [Rust](https://rust-lang.org/)

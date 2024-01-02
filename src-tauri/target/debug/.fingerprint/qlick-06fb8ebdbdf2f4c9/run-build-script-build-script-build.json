@@ -1,0 +1,1 @@
+{"rustc":2497478894085024098,"features":"","target":0,"profile":0,"path":0,"deps":[[9480373616479082475,"build_script_build",false,3374994453481529919]],"local":[{"RerunIfChanged":{"output":"debug/build/qlick-06fb8ebdbdf2f4c9/output","paths":["tauri.conf.json"]}},{"RerunIfEnvChanged":{"var":"TAURI_CONFIG","val":null}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
