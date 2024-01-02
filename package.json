@@ -1,7 +1,16 @@
 {
   "name": "qlick",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "⚡ modern vscode alternative, made with rust.",
+  "maintainers": [
+    "Nelmin",
+    "henri.web"
+  ],
+  "homepage": "https://qlick.dev/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zenvio-net/qlick"
+  },
   "type": "module",
   "scripts": {
     "start": "vite",
@@ -12,13 +21,20 @@
   },
   "license": "MIT",
   "dependencies": {
-    "solid-js": "^1.7.8",
-    "@tauri-apps/api": "^1.5.2"
+    "@tauri-apps/api": "^1.5.2",
+    "solid-icons": "^1.1.0",
+    "solid-js": "^1.7.8"
   },
   "devDependencies": {
+    "@tauri-apps/cli": "^1.5.8",
+    "@typescript-eslint/eslint-plugin": "^6.17.0",
+    "@typescript-eslint/parser": "^6.17.0",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "3.1.1",
+    "tailwindcss": "^3.4.0",
     "typescript": "^5.0.2",
     "vite": "^5.0.0",
-    "vite-plugin-solid": "^2.8.0",
-    "@tauri-apps/cli": "^1.5.8"
+    "vite-plugin-solid": "^2.8.0"
   }
 }
